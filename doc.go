@@ -12,5 +12,6 @@
 // License for the specific language governing permissions and limitations
 // under the License.
 
+// add new doc
 // Package goutil Go常用工具包
 package goutil
